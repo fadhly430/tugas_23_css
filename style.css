@@ -1,0 +1,21 @@
+
+table {
+
+border-collapse: inherit;
+}
+table.tb{
+
+  /* border-collapse: separate; */
+  border-spacing: 0 20px;
+}
+
+td {
+  /* width: 150px; */
+  text-align: justify;
+  border: hidden;
+
+}
+
+th {
+  text-align: left;
+}
